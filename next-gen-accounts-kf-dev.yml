@@ -60,5 +60,3 @@ next:
       input:
         consumer:
           group: "next-gen-kyc-input-consumer"
-  kafka:
-    bootstrap-servers: ${KAFKA_BOOTSTRAP_SERVERS}
