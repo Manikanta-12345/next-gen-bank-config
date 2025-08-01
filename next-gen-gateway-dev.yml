@@ -27,7 +27,7 @@ eureka:
     register-with-eureka: true
     fetch-registry: true
     service-url:
-      defaultZone: http://${EUREKA_HOST}:8070/eureka
+      defaultZone: http://${EUREKA_HOST}/eureka
 
 info:
   app:
