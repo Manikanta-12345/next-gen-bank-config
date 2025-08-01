@@ -66,3 +66,6 @@ next:
       output:
         consumer:
           group: "next-gen-kyc-output-consumer"
+
+  kafka:
+    bootstrap-servers: ${KAFKA_BOOTSTRAP_SERVERS}
