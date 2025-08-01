@@ -80,8 +80,6 @@ Uams:8082
 Accounts:8083
 configserver:8084
 
-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
-
 client_id: next-gen-uams
-client_secret: p3sqTHth08sx8UN5WGmVXkOic83HCyuV
+client_secret:
 jwk-set-uri: http://localhost:8080/realms/next-gen-bank/protocol/openid-connect/certs
